@@ -1,0 +1,7 @@
+%section{id: 'body'}
+  .inner
+    %p=raw @page.content_for(:body)
+
+%section{id: 'side_body'}
+  .inner
+    %p=raw @page.content_for(:side_body)

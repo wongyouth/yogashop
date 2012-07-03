@@ -10,6 +10,7 @@ gem 'refinerycms'
 gem 'refinerycms-i18n'
 gem 'bootstrap-sass'
 gem 'twitter-bootstrap-rails'
+gem 'haml-rails'
 
 
 # Gems used only for assets and not required
